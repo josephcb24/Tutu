@@ -1,0 +1,65 @@
+/*Footer-v2
+------------------------------------*/
+.footer-v2 .footer {
+	padding: 40px 0;
+background: #5856d6; /* Old browsers */
+background: -moz-linear-gradient(top,  #5856d6 0%, #c644fc 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#5856d6), color-stop(100%,#c644fc)); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top,  #5856d6 0%,#c644fc 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top,  #5856d6 0%,#c644fc 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top,  #5856d6 0%,#c644fc 100%); /* IE10+ */
+background: linear-gradient(to bottom,  #5856d6 0%,#c644fc 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#5856d6', endColorstr='#c644fc',GradientType=0 ); /* IE6-9 */
+
+}
+
+.footer-v2 .footer p {
+	color: #fff;
+	font-weight:300;
+}
+
+.footer-v2 .headline h2 {
+	color: #fff;
+}
+
+/*Footer Subsribe*/
+.footer-v2 .footer-subsribe {
+	width: 100%;
+}
+
+/*Link List*/
+.footer-v2 .link-list li {
+	border-top: solid 1px #eee;
+}
+
+.footer-v2 .link-list a {
+	color: #fff;
+	font-weight:300;
+}
+
+.footer-v2 address {
+	color: #fff;
+	line-height: 23px;
+}
+
+.footer-v2 address i {
+	min-width: 20px;
+	margin-right: 5px;
+	text-align: center;
+}
+
+/*Copyright*/
+.footer-v2 .copyright {
+	border-top: none;
+	background: #470467;
+	padding: 10px 0 2px;
+}
+
+.footer-v2 .copyright p {
+	color: #fff;
+	margin-bottom: 0;
+}
+.cards{
+color:#fff !important;
+font-size:25px !important;	
+}
